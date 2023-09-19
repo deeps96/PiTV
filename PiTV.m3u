@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="http://192.168.178.77/epg.xml" size="medium"
+#EXTINF:0 type="stream" channelId="91" tvg-id="186f292aad316c35396adb2e6e0f06c0", Das Erste HD / ARD
+http://192.168.178.77:9981/stream/service/bd93e81a2675347da2df155f0af23292
+#EXTINF:0 type="stream" channelId="92" tvg-id="f8aa5415475a48afecc87e0c5395791c", ZDF HD / ZDFvision
+http://192.168.178.77:9981/stream/service/f04fbce753a2cf9d3ad81562bd72b38b
+#EXTINF:0 type="stream" channelId="910" tvg-id="9094f5de3e273d6f0981b7dabdee2319", tagesschau24 HD / Digital Free
+http://192.168.178.77:9981/stream/service/1b05592340e87e4e4ca881fce90be685
+#EXTINF:0 type="stream" channelId="870" tvg-id="a137252ebf38b640fa9b712f72240e94", rbb Brandenburg HD / ARD
+http://192.168.178.77:9981/stream/service/05eb95dade526c78ac45f197dbc2ea95
+#EXTINF:0 type="stream" channelId="963" tvg-id="5eaeb435167f88735cbf48415390f789", SAT.1 / Digital Free
+http://192.168.178.77:9981/stream/service/e15963cca8951823ac5923783a52782d
+#EXTINF:0 type="stream" channelId="774" tvg-id="d79e340eef7eac639016a408fef4b4aa", RTL / Digital Free
+http://192.168.178.77:9981/stream/service/67e24ba00b8f731e4f18a87408fbdf83
+#EXTINF:0 type="stream" channelId="965" tvg-id="7804822d47e1b65f1aa306824e499552", ProSieben / Digital Free
+http://192.168.178.77:9981/stream/service/fd40ac428ca93fb07915faadd90d2be9
+#EXTINF:0 type="stream" channelId="966" tvg-id="ee61eaa8b1d0cb3285e4c19018163c6b", VOX / Digital Free
+http://192.168.178.77:9981/stream/service/b7cea466bb8f1aba35aa34de2dff2352
+#EXTINF:0 type="stream" channelId="970" tvg-id="56de4039c7c558139645058270764818", RTLZWEI / Digital Free
+http://192.168.178.77:9981/stream/service/dcecab6e1622fbcab4dc0cca27d116dd
+#EXTINF:0 type="stream" channelId="971" tvg-id="1720a7bc522f0b34a1f49e8641a5528b", kabel eins / Digital Free
+http://192.168.178.77:9981/stream/service/aef73bf1932bf21773b9d797d0154b64
+#EXTINF:0 type="stream" channelId="901" tvg-id="f247a4a9f77a7ac35a79fe333c1bd178", 3sat HD / ZDFvision
+http://192.168.178.77:9981/stream/service/60b6799146ee7fed34facc315f487bbc
+#EXTINF:0 type="stream" channelId="1270" tvg-id="ab831620061edff369e2d5aa5781b01c", ZDFinfo HD / ZDFvision
+http://192.168.178.77:9981/stream/service/8c60902225ee5c7ad1bac767b5bee1b9
+#EXTINF:0 type="stream" channelId="1271" tvg-id="dad69c9a4d5f9143382ac4d109eff540", zdf_neo HD / ZDFvision
+http://192.168.178.77:9981/stream/service/3bc4f3c891f6c938a39f1baebc7711b5
+#EXTINF:0 type="stream" channelId="93" tvg-id="d03a01a96b1b1711ad48b5cc8684c9fc", arte HD / ARD
+http://192.168.178.77:9981/stream/service/19e6c05f1714de9445af14711d379a0d
